@@ -1,0 +1,77 @@
+body{
+	margin: 0px;
+	background-color: black;
+}
+
+@import "~bootstrap/css/bootstrap";
+
+.bangru{
+	background-image: url('https://us.123rf.com/450wm/golfmhee/golfmhee1803/golfmhee180300014/97217308-silhouette-of-man-new-generation-jump-on-beautiful-background-.jpg?ver=6');
+	height: auto;
+	width: auto;
+	text-align: center;
+	font-weight: 900;
+	font-family: cursive;
+}
+.hero-title {
+    font-size: 5.6rem;
+    font-weight: 700;
+    margin-bottom: 3.2rem;
+    text-align: center;
+
+}
+.damru{
+	color: deeppink;
+}
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+
+}
+.section-title{
+	font-size: 3.4rem;
+    font-weight: 700;
+    margin-bottom: 3.2rem;
+    text-align: center;
+    color: yellow;
+}
+.jhang{
+	font-size: 1.4rem;
+    font-weight: 700;
+    margin-bottom: 3.2rem;
+    text-align: center;
+    color: white;
+}
+.phang{
+	background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-pure-fantasy-valentine-heart-gradient-background-love-backgroundatmospheric-backgroundvalentines-image_88265.jpg');
+	height: auto;
+	width: auto;
+	}
+.dhik{
+	background-image: url('https://www.nawpic.com/media/2020/nature-background-nawpic-7.jpg');
+}
+img{
+	width: auto;
+	height: auto;
+	margin: 10px;
+	transition: all 1s;
+}
+
+img:hover{
+	transform: scale(1.1);
+}
+.dangi{
+	text-align: center;
+	font-weight: 400;
+	font-size: 1.6rem;
+	background-color: greenyellow;
+}
+.sect{
+font-size: 3.4rem;
+    font-weight: 700;
+    margin-bottom: 3.2rem;
+    text-align: center;
+    color: Black;
+
+}
